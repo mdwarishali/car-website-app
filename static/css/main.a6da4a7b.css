@@ -27,7 +27,7 @@
   color: #fff;
   display: flex;
   justify-content: space-between;
-  margin: 50px 120px;
+  margin: 35px 0px;
 }
 .nav-logo {
   font-family: outfit;
@@ -48,7 +48,7 @@
   padding: 10px 38px;
 }
 .hero {
-  margin: 120px 120px 0;
+  margin: 90px 0px 0;
 }
 .hero-text {
   color: #fff;
